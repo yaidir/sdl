@@ -38,7 +38,7 @@ This is a **pre-release (alpha)** version of SDL. Features are still experimenta
 
 ---
 
-## [1.0.0-alpha] - 2024-11-22
+## [1.0.0-alpha] - 2024-11-23
 
 🚨 **Alpha Release Notice**:  
 This is an **alpha release** of the SDL lexer. Features are still experimental and subject to change in future versions. Use with caution, and report issues to help us improve!
