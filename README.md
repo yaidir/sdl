@@ -1,3 +1,10 @@
+<a name="logo"/>
+<div align="center">
+<a href="../" target="_blank">
+<img src="resources/updated_logo.png" alt="Julia Logo" width="210" height="142"></img>
+</a>
+</div>
+
 <table>
     <!-- Docs -->
     <tr>
