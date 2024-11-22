@@ -6,7 +6,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 
 ---
 
-## [0.1.0-alpha] - YYYY-MM-DD
+## [0.1.0-alpha] - 2024-11-22
 
 🚨 **Pre-Release Notice**:  
 This is a **pre-release (alpha)** version of SDL. Features are still experimental and subject to change. Use with caution and report any issues to help shape the project.
@@ -38,7 +38,7 @@ This is a **pre-release (alpha)** version of SDL. Features are still experimenta
 
 ---
 
-## [1.0.0-alpha] - 2024-11-22
+## [1.0.0-alpha] - 2024-11-23
 
 🚨 **Alpha Release Notice**:  
 This is an **alpha release** of the SDL lexer. Features are still experimental and subject to change in future versions. Use with caution, and report issues to help us improve!
