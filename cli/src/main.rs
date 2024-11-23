@@ -1,5 +1,6 @@
-// * Imports
 use clap::{Parser, Subcommand};
+
+// Trying to get this shit to push to github correctly fucking god
 
 #[derive(Parser)]
 #[command(name = "sdl")]
